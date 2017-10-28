@@ -12,6 +12,6 @@ This setting only applies to new page URLs, so you might leave it as is, if you 
 ## See also
 
 
-*  [Configuring Bigace](bigace/manual/configurations)
+*  [Configuring Bigace](manual/configurations)
 
 

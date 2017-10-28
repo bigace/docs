@@ -2,7 +2,7 @@
 
 The {comments} TAG is a multi-purpose TAG, both used for fetching and creating comments.
 
-It is part of the [Comments Extension](bigace/extensions/addon/comments).
+It is part of the [Comments Extension](extensions/addon/comments).
 
 
 ## Configuration
@@ -16,7 +16,7 @@ These configurations impact the behaviour of the TAG:
 
 *  **allow.html**
 
-Please read more about them [here](bigace/extensions/addon/comments#configuration).
+Please read more about them [here](extensions/addon/comments#configuration).
 
 ## Attributes
 

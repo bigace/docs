@@ -15,6 +15,6 @@ For example the default theme name "theme_blue" results in the file ''/public/sy
 ## See also
 
 
-*  [Configuring Bigace](bigace/manual/configurations)
+*  [Configuring Bigace](manual/configurations)
 
 

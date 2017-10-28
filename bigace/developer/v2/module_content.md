@@ -2,7 +2,7 @@
 
 To display the contant of a regular page or even the current page, you cannot use the syntax you are using in your template. This is becuase modules are plain old PHP and templates are written in Smarty syntax.
 
-So have to use the [Bigace API](bigace/developer/phpdoc) to fetch the content.
+So have to use the [Bigace API](developer/phpdoc) to fetch the content.
 
 In a module you have always access to the current page through the global object $MENU, which represents the current page where the module is loaded inside.
 

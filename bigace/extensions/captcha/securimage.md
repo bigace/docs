@@ -24,7 +24,7 @@ Thats it! It will now be used in all forms using captchas ...
 
 ## Manual configuration
 
-Read how to manually configure Securimage (if it was installed before) at: [bigace:captcha](bigace/captcha).
+Read how to manually configure Securimage (if it was installed before) at: [bigace:captcha](captcha).
 
 Configuration:
 

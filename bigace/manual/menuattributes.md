@@ -20,24 +20,24 @@ This feature is also known as [Permalink](http://en.wikipedia.org/wiki/Permalink
 
 ### Catchwords
 
-Enter any catchwords (or TAGS) you like to remember this page. Catchwords are searchable and are displayed by some [templates](bigace/manual/templates).
+Enter any catchwords (or TAGS) you like to remember this page. Catchwords are searchable and are displayed by some [templates](manual/templates).
 
 ### Description
 
-The description of your page is shown in the default search formular. The information is also often displayed in [templates](bigace/manual/templates).
+The description of your page is shown in the default search formular. The information is also often displayed in [templates](manual/templates).
 
 ### Module
 
-[Modules](bigace/manual/itemmodul) are small PHP scripts, that will be embedded in your page (if your [template](bigace/manual/templates) loads it, which is default behaviour). There are several modules available for download at the [Plugins](http://www.bigace.de/plugins/) page.
+[Modules](manual/itemmodul) are small PHP scripts, that will be embedded in your page (if your [template](manual/templates) loads it, which is default behaviour). There are several modules available for download at the [Plugins](http://www.bigace.de/plugins/) page.
 
 ### Layout
 
-The layout or [design](bigace/manual/design) is used to render your menu. It describes the HTML structure of your page.
-Read more about the default [Designs](bigace/manual/design) and about the used [Templates](bigace/manual/templates).
+The layout or [design](manual/design) is used to render your menu. It describes the HTML structure of your page.
+Read more about the default [Designs](manual/design) and about the used [Templates](manual/templates).
  
 ### Workflow
 
-If this page uses a [workflow](bigace/manual/menuworkflow), the [workflow](bigace/manual/menuworkflow)s name is shown, otherwise the select box is empty.
+If this page uses a [workflow](manual/menuworkflow), the [workflow](manual/menuworkflow)s name is shown, otherwise the select box is empty.
 
 ### Show Menu
 

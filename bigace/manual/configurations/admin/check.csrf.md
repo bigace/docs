@@ -17,9 +17,9 @@ If the user POSTs data to the administration (and before the value is resetted) 
 ## See also
 
 
-*  [Configuring Bigace](bigace/manual/configurations)
+*  [Configuring Bigace](manual/configurations)
 
-*  [bigace:manual:67108867](bigace/manual/67108867)
+*  [bigace:manual:67108867](manual/67108867)
 
 ## External links
 

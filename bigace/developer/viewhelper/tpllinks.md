@@ -1,6 +1,6 @@
 # tplLinks()
 
-The **tplLinks** ViewHelper returns stateful URLs to actions that can be useful in your [bigace:developer:zendtemplate](bigace/developer/zendtemplate).
+The **tplLinks** ViewHelper returns stateful URLs to actions that can be useful in your [bigace:developer:zendtemplate](developer/zendtemplate).
 
 -> Since BIGACE 3.0
 
@@ -31,7 +31,7 @@ Note: The array only contains links to actions the user is allowed to use (for e
 
 ## Example
 
-This example shows to fetch and display action links in a [bigace:developer:zendtemplate](bigace/developer/zendtemplate).
+This example shows to fetch and display action links in a [bigace:developer:zendtemplate](developer/zendtemplate).
 
 	:::php
 	<?php
@@ -60,5 +60,5 @@ This example shows to fetch and display action links in a [bigace:developer:zend
 
 *  [ViewHelper tplLinks() PHPDoc](http://api.bigace-cms.com/latest/Bigace_Zend/View_Helper/Bigace_Zend_View_Helper_TplLinks.html)
 
-*  [bigace:developer:zendtemplate](bigace/developer/zendtemplate)
+*  [bigace:developer:zendtemplate](developer/zendtemplate)
 

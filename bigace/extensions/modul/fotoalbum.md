@@ -1,6 +1,6 @@
 # Photo-Album
 
-The HTML Photo-Album is a "old fashioned" [Fotogallery](bigace/extensions/modul/fotogallery) using pure HTML.
+The HTML Photo-Album is a "old fashioned" [Fotogallery](extensions/modul/fotogallery) using pure HTML.
 
 The gallery displays all images of one category in a list.
 On the left side is the thumbnail of the image, on the right side is the name and description of the image. 

@@ -18,13 +18,13 @@ Quite a simple but beautiful template:
 
 *  Header with top-level links (max. 5 links)
 
-*  Content Area (600px width) with [{breadcrumb}](bigace/smarty_tags/breadcrumb) support
+*  Content Area (600px width) with [{breadcrumb}](smarty_tags/breadcrumb) support
 
 *  Footer with Login link (logged-in user get Admin/Editor/Logout links)
 
-*  supports dynamic [bigace:smarty_tags:metatags](bigace/smarty_tags/metatags) (good for [SEO](bigace/extensions/seo) and [bigace:extensions:addon:news](bigace/extensions/addon/news))
+*  supports dynamic [bigace:smarty_tags:metatags](smarty_tags/metatags) (good for [SEO](extensions/seo) and [bigace:extensions:addon:news](extensions/addon/news))
 
-Displays the configuration values [bigace:manual:configurations:community:sitename](bigace/manual/configurations/community/sitename) in the header and the [bigace:manual:configurations:community:copyright.holder](bigace/manual/configurations/community/copyright.holder) in the footer.
+Displays the configuration values [bigace:manual:configurations:community:sitename](manual/configurations/community/sitename) in the header and the [bigace:manual:configurations:community:copyright.holder](manual/configurations/community/copyright.holder) in the footer.
 
 ## Screenshot
 

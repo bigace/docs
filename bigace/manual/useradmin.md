@@ -14,7 +14,7 @@ Users have the following required attributes:
 They also have the following meta data:
 
 
-*  Membership in [Usergroups](bigace/manual/groupadmin)
+*  Membership in [Usergroups](manual/groupadmin)
 
-*  [free configurable attributes](bigace/administration/userattributes) (some are pre-configured, like email adress)
+*  [free configurable attributes](administration/userattributes) (some are pre-configured, like email adress)
 

@@ -12,7 +12,7 @@ The {sitename} displays the configured Sitename.
 
 ## Configuration
 
-To change the sitename, open your [Configurations](bigace/manual/configurations) and change the key **community** / **sitename**.
+To change the sitename, open your [Configurations](manual/configurations) and change the key **community** / **sitename**.
 
 ## Example
 

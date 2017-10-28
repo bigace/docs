@@ -42,4 +42,4 @@ This displays a link to the Administration, depending on the users login state.
 	`</html>`
 
 
-For a full "admin links" example, see [bigace:smarty_tags:permission_editcontent](bigace/smarty_tags/permission_editcontent).
+For a full "admin links" example, see [bigace:smarty_tags:permission_editcontent](smarty_tags/permission_editcontent).

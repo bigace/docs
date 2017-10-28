@@ -14,6 +14,6 @@ But consider turning this off, if you have many empty pages, otherwise you might
 ## See also
 
 
-*  [Configuring Bigace](bigace/manual/configurations)
+*  [Configuring Bigace](manual/configurations)
 
 

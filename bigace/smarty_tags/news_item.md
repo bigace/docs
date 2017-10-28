@@ -2,7 +2,7 @@
 
 The {news_item} TAG loads one single News item.
 
--> Since BIGACE 2.4 and installed [News](bigace/extensions/addon/news) [Extension](bigace/extensions).
+-> Since BIGACE 2.4 and installed [News](extensions/addon/news) [Extension](extensions).
 
 ## Attributes
 

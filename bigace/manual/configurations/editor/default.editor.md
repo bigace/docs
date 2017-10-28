@@ -10,6 +10,6 @@ The default editor for editing page content. Possible settings in a default inst
 ## See also
 
 
-*  [Configuring Bigace](bigace/manual/configurations)
+*  [Configuring Bigace](manual/configurations)
 
 

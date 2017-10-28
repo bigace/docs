@@ -17,7 +17,7 @@ Modules are the part of your pages, that render the content area. This will be m
 But modules might also be any thinkable PHP script, that replaces or extends the pages content to make your website more dynamic and interactive.
 
 Each modul can be assigned to as many menus as you want to. Some of them use their own Admin panel plugin, which will be displayed within the Admin Menu **Extension** (Guestbook for example comes shipped with its own Admin Plugin).
-Others might need to be configured per page, then you see a "Configure Modul" link when displaying the page (you might need to assign a [Group permission](bigace/manual/grouppermission) to your user before you see the link).
+Others might need to be configured per page, then you see a "Configure Modul" link when displaying the page (you might need to assign a [Group permission](manual/grouppermission) to your user before you see the link).
 
 ## Display Modules in Pages
 
@@ -29,11 +29,11 @@ First step is to download a module from the [Plugin repository](http://www.bigac
 
 ### Install
 
-New modules can be installed with the [Extension Administration](bigace/manual/updates).
+New modules can be installed with the [Extension Administration](manual/updates).
 
 ### Assign module to page
 
-Change to the [menu administration](bigace/manual/menuattributes) and edit the page where the module should appear.
+Change to the [menu administration](manual/menuattributes) and edit the page where the module should appear.
 
 Now choose the preferred module from the "module drop-down".
 

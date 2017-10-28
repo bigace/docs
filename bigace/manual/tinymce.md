@@ -8,5 +8,5 @@ Read more about this WYSIWYG Editor at:
 
 This Editor Plugin was first published for BIGACE 2.4.
 
-See the [TinyMCE Extensions](bigace/extensions/editor/tinymce) page for more information.
+See the [TinyMCE Extensions](extensions/editor/tinymce) page for more information.
 

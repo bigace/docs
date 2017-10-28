@@ -2,7 +2,7 @@
 
 The {content} TAG display additional content blocks of a page.
 
--> This TAG changed its usage with 2.5. If you used it before, please have a look [here](http://www.bigace.de/upgrade-2.5.html) and at the [{modul}](bigace/smarty_tags/modul) TAG.
+-> This TAG changed its usage with 2.5. If you used it before, please have a look [here](http://www.bigace.de/upgrade-2.5.html) and at the [{modul}](smarty_tags/modul) TAG.
 
 Please note that you **cannot** read the pages default content with this TAG, it reads the additional configured content blocks.
 

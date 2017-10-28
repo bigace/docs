@@ -10,7 +10,7 @@ For creating a new Modul, at least the following Folder and File structure is re
 	      +-------- modul.php
 
 
-Read more about the path [/consumer/cid{CID}/](bigace/cid_cid). Assume Community ID 1, you place your module in **/consumer/cid1/modul/**.
+Read more about the path [/consumer/cid{CID}/](cid_cid). Assume Community ID 1, you place your module in **/consumer/cid1/modul/**.
 
 If you added the folder correctly, you should be able to use this module for menu pages.
 
@@ -86,7 +86,7 @@ Please note: If you want to use settings, then you should declare at least one f
 	
 	frights = system_admin
 
-Now every logged in user linked to a user group that owns the permission "system_admin" will be able to edit [bigace:developer:v2:module_admin](bigace/developer/v2/module_admin).
+Now every logged in user linked to a user group that owns the permission "system_admin" will be able to edit [bigace:developer:v2:module_admin](developer/v2/module_admin).
 ## modul.properties
 
 This File holds the description and name for the Modul and needs only 3 lines:
@@ -117,7 +117,7 @@ Want to use translations in your modules output? Then create the file translatio
 
 More about modules:
 
-*  [bigace:developer:v2:module_admin](bigace/developer/v2/module_admin) - open module settings dialog and read settings within your module
+*  [bigace:developer:v2:module_admin](developer/v2/module_admin) - open module settings dialog and read settings within your module
 
-*  [bigace:developer:v2:module_content](bigace/developer/v2/module_content) - how to display page content in your module with PHP
+*  [bigace:developer:v2:module_content](developer/v2/module_content) - how to display page content in your module with PHP
 

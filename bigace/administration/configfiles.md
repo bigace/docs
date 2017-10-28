@@ -9,7 +9,7 @@ System wide configurations can be found in Config Files within the directory **/
 **config.system.php**
 In dieser Datei finden sich die wichtigsten Einstellungen, z.B. die Verbindungsdaten zur Datenbank. Diese Datei ist interessant für Systemadministratoren, hier können unter anderem Session Einstellungen verändert werden.
 
-**[consumer.ini](bigace/manual/community#consumer.ini)**
+**[consumer.ini](manual/community#consumer.ini)**
 Hier finden Sie die Verknüpfungen zwischen Domain Namen zu Consumer ID, Wartungsarbeiten und Default Consumer. Zum Editieren dieser Datei stehen mehrere Administratrationsmasken zur Verfügung. Es wird dringend davon abgeraten diese Datei manuell anzupassen!
 
 **mimetypes.ini**
@@ -21,7 +21,7 @@ Diese Datei ist ein elementarer Bestandteil des Core Systems, hier werden die Im
 
 ## Community Configurations
 
-Community dependend configurations can be found in your Community Directory [/consumer/cid{CID}/config/](bigace/cid_cid).
+Community dependend configurations can be found in your Community Directory [/consumer/cid{CID}/config/](cid_cid).
 
 **config.system.cid{CID}.inc.php** 	
 Alle hier aufgeführten Werte überschreiben die Einstellungen der Datei config.system.php (siehe auch the section called “System Configurations”). Die so überschriebenen Einstellungen gelten dann nur für den jeweiligen Consumer.

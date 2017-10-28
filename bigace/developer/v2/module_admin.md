@@ -3,7 +3,7 @@
 This page covers some code snippets regarding Module settings. 
 After reading you should be capable of displaying a link to the module settings dialog and to read your modules configuration.
 
-Want to know more about modules in general? Then read [bigace:modules](bigace/modules).
+Want to know more about modules in general? Then read [bigace:modules](modules).
 
 ## Show Admin link and fetch configurations
 

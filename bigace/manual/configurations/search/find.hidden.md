@@ -10,6 +10,6 @@ Whether hidden pages are searchable or not. If set to ''FALSE'' hidden pages wil
 ## See also
 
 
-*  [Configuring Bigace](bigace/manual/configurations)
+*  [Configuring Bigace](manual/configurations)
 
 

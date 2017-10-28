@@ -31,7 +31,7 @@ Get all downloads from:
 
 ## Configuration of the FirePHP Plugin for BIGACE
 
-Read how to [configure the logger class](bigace/developer/logger).
+Read how to [configure the logger class](developer/logger).
 After configuration and reloading the page you will find your log messages in the console like this:
 
 {{bigace:extensions:development:example-log.png|Screenshot of some example log messages}}

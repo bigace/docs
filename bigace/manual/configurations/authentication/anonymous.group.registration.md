@@ -12,6 +12,6 @@ Whether a user that registered itself is assigned to the user group of anonymous
 ## See also
 
 
-*  [Configuring Bigace](bigace/manual/configurations)
+*  [Configuring Bigace](manual/configurations)
 
 

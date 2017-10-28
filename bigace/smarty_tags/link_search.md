@@ -2,7 +2,7 @@
 
 The {link_search} TAG crates the URL to the Search result page and will be likely used in a quick search formular.
 
-See the "[Customizing Search](bigace/administration/search)" article as well for more information about request parameter.
+See the "[Customizing Search](administration/search)" article as well for more information about request parameter.
 
 ## Attributes
 

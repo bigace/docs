@@ -2,7 +2,7 @@
 
 The {""|smileys} modifier parses a string to replace all textual smileys with icons.
 
-This modifier is part of the [Smileys Plugin](bigace/extensions/modul/smileys).
+This modifier is part of the [Smileys Plugin](extensions/modul/smileys).
 
 ## Attributes
 
@@ -25,7 +25,7 @@ This example shows how to replace the Smileys in a string.
 	`</html>`
 
 
-This example shows how to parse the 5 latest comments [{comments_latest}](bigace/smarty_tags/comments_latest):
+This example shows how to parse the 5 latest comments [{comments_latest}](smarty_tags/comments_latest):
 
 	:::html
 	`<html>`

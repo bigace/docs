@@ -2,7 +2,7 @@
 
 The {piwik} TAG allows easy user statistics through [Piwik - the Open source web analytics](http://piwik.org) software.
 
--> Since [SEO 0.7](bigace/extensions/seo).
+-> Since [SEO 0.7](extensions/seo).
 
 ## Attributes
 

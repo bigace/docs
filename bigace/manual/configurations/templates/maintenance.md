@@ -12,6 +12,6 @@ The template to use when the Community is in Maintenance mode.
 ## See also
 
 
-*  [Configuring Bigace](bigace/manual/configurations)
+*  [Configuring Bigace](manual/configurations)
 
 

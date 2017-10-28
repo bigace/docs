@@ -38,13 +38,13 @@ What the permissions do:
 ## Smarty TAGs
 
 
-*  [{faq_entries}](bigace/smarty_tags/faq_entries)
+*  [{faq_entries}](smarty_tags/faq_entries)
 
-*  [{faq_latest}](bigace/smarty_tags/faq_latest)
+*  [{faq_latest}](smarty_tags/faq_latest)
 
-*  [{faq_section}](bigace/smarty_tags/faq_section)
+*  [{faq_section}](smarty_tags/faq_section)
 
-*  [{faq_sections}](bigace/smarty_tags/faq_sections)
+*  [{faq_sections}](smarty_tags/faq_sections)
 
 ## Screenshots
 

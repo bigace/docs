@@ -25,7 +25,7 @@ Get all downloads from:
 
 *  3 level navigation, if activated in Configuration
 
-*  Customized Header and Footer to display [search](bigace/administration/search) results
+*  Customized Header and Footer to display [search](administration/search) results
 
 ## Screenshot
 

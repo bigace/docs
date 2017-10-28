@@ -1,6 +1,6 @@
 # Dashboard
 
-//Note: If you are looking for all manual topics, [please follow this link to the manual](bigace/manual).
+//Note: If you are looking for all manual topics, [please follow this link to the manual](manual).
 //
 
 {{page>wiki:templates:v3changes}}

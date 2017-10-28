@@ -2,7 +2,7 @@
 
 Package: **[.](.)**
 
-The Group-ID of the [Usergroup](bigace/manual/usergroups) that is able to review a Single-review workflow.
+The Group-ID of the [Usergroup](manual/usergroups) that is able to review a Single-review workflow.
 
 
 *  Default: ''Editor''
@@ -10,6 +10,6 @@ The Group-ID of the [Usergroup](bigace/manual/usergroups) that is able to review
 ## See also
 
 
-*  [Configuring Bigace](bigace/manual/configurations)
+*  [Configuring Bigace](manual/configurations)
 
 

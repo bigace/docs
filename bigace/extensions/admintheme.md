@@ -1,16 +1,16 @@
 # Administration Themes
 
 
-*  [famfamfam](bigace/extensions/admintheme/famfamfam)
+*  [famfamfam](extensions/admintheme/famfamfam)
 
-*  [Crystal Clear](bigace/extensions/admintheme/crystalclear)
+*  [Crystal Clear](extensions/admintheme/crystalclear)
 
 
 ## Related information
 
 
-*  [Introduction of Administration Themes](bigace/admin_themes)
+*  [Introduction of Administration Themes](admin_themes)
 
-*  [HOWTO create a new Administration Theme](bigace/developer/admintheme)
+*  [HOWTO create a new Administration Theme](developer/admintheme)
 
 

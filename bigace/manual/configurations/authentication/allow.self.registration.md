@@ -2,7 +2,7 @@
 
 Package: **[.](.)**
 
-Decides if the process to register a user through an anonymous account is activated. If set to ''TRUE'' the Login screen will have a new link to [bigace:administration:self-registration](bigace/administration/self-registration).
+Decides if the process to register a user through an anonymous account is activated. If set to ''TRUE'' the Login screen will have a new link to [bigace:administration:self-registration](administration/self-registration).
 
 
 *  Default: ''FALSE''
@@ -15,8 +15,8 @@ Decides if the process to register a user through an anonymous account is activa
 ## See also
 
 
-*  [Configuring Bigace](bigace/manual/configurations)
+*  [Configuring Bigace](manual/configurations)
 
-*  [bigace:administration:self-registration](bigace/administration/self-registration)
+*  [bigace:administration:self-registration](administration/self-registration)
 
 

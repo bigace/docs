@@ -26,7 +26,7 @@ This is a (uncomplete) list of values for the **name** attribute with their desc
 
 *  **addon_web** - points to /addon/
 
-The default value (if no **name** parameter is used) will return the directory [/public/cid{CID}/](bigace/cid_cid) as absolute URL.
+The default value (if no **name** parameter is used) will return the directory [/public/cid{CID}/](cid_cid) as absolute URL.
 
 ## Example
 

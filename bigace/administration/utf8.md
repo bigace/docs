@@ -25,7 +25,7 @@ How ever you are going to convert your data, the first thing __you have to do__ 
 There are two ways:
 
  1.  Manually, as stated above OR ...
- 2.  ... by using the [BIGACE UTF8 conversion helper](bigace/administration/utf8-conversion). 
+ 2.  ... by using the [BIGACE UTF8 conversion helper](administration/utf8-conversion). 
 
 ## Examples
 
@@ -146,7 +146,7 @@ These steps need to be done after EACH future update, so please think about swit
 
 ## Link list regarding UTF-8 conversion
 
-There are a lot of tutorials out there, but those helped me creating the [conversion helper](bigace/administration/utf8-conversion):
+There are a lot of tutorials out there, but those helped me creating the [conversion helper](administration/utf8-conversion):
 
 
 *  http://www.phpwact.org/php/i18n/utf-8/mysql

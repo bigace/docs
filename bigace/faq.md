@@ -6,9 +6,9 @@
 ## I downloaded the template "XXX" - how to install it in BIGACE?
 
 Is the template an officially supported BIGACE template, as you get them from the [BIGACE Plugin page](http://www.bigace.de/plugins/)? 
-If so, please have a look at the wiki page "[Installation of BIGACE Plugins](bigace/manual/updates)".
+If so, please have a look at the wiki page "[Installation of BIGACE Plugins](manual/updates)".
 
-If you found a free template or bought a commercial version you will likely have a HTML/CSS template which can not be used with BIGACE out-of-the-box. You have to convert it to a BIGACE design. See [bigace:developer:template](bigace/developer/template).
+If you found a free template or bought a commercial version you will likely have a HTML/CSS template which can not be used with BIGACE out-of-the-box. You have to convert it to a BIGACE design. See [bigace:developer:template](developer/template).
 
 ## Where can I find good HTML templates?
 

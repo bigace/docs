@@ -2,7 +2,7 @@
 
 This plugin displays social bookmarking icons (and links) for the most important english services.
 
-It was developed using template [bigace:developer:hooks](bigace/developer/hooks) and content [filter](bigace/developer/hooks).
+It was developed using template [bigace:developer:hooks](developer/hooks) and content [filter](developer/hooks).
 
 Please read below for information how to include the Social-Bookmark menu in your pages.
 
@@ -35,7 +35,7 @@ Please note, that the message in the screenshot comes from the template. You can
 ## Usage (version 0.4 and above)
 
 This version uses the new parse_content filter
-To use this Plugin your template needs to use the [bigace:smarty_tags:metatags](bigace/smarty_tags/metatags) TAG, which will receive all required Javascript and CSS declarations.
+To use this Plugin your template needs to use the [bigace:smarty_tags:metatags](smarty_tags/metatags) TAG, which will receive all required Javascript and CSS declarations.
 
 The Plugin replaces the string "[socialbookmarks]" with the menu, so you should either put that string into your template (as seen below) or you can add it to single pages by putting that string into the pages content.
 
@@ -56,9 +56,9 @@ The Plugin replaces the string "[socialbookmarks]" with the menu, so you should 
 
 If you do not use the default template Blix, you need these actions in your template:
 
-*  {hooks_action name='[smarty_tpl_header](bigace/developer/action/smarty_tpl_header)' item=$MENU}
+*  {hooks_action name='[smarty_tpl_header](developer/action/smarty_tpl_header)' item=$MENU}
 
-*  {hooks_action name='[smarty_tpl_footer](bigace/developer/action/smarty_tpl_footer)' item=$MENU}
+*  {hooks_action name='[smarty_tpl_footer](developer/action/smarty_tpl_footer)' item=$MENU}
 
 	:::html
 	`<html>`

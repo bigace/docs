@@ -8,7 +8,7 @@ Two simple steps are required:
 
 ## Activate File Logger
 
-Read how to [configure the logger class](bigace/developer/logger).
+Read how to [configure the logger class](developer/logger).
 
 ## Reload the page
 
@@ -26,9 +26,9 @@ Logfiles have the format "system_log_" + YEAR + "_" + MONTH + "_" + DAY + ".txt"
 ## More about logging
 
 
-*  [bigace:manual:configurations:system:logger.loglevel](bigace/manual/configurations/system/logger.loglevel)
+*  [bigace:manual:configurations:system:logger.loglevel](manual/configurations/system/logger.loglevel)
 
-*  [bigace:developer:logger](bigace/developer/logger)
+*  [bigace:developer:logger](developer/logger)
 
-*  [bigace:extensions:development:firephp](bigace/extensions/development/firephp)
+*  [bigace:extensions:development:firephp](extensions/development/firephp)
 

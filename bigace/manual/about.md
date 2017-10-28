@@ -38,10 +38,10 @@ You have to enter title and a message, the other fields are optional and can be 
 
 *Note: Only Administrator are able to change the recipient adress!*
 
-Read [bigace:manual:configurations:admin:feedback.email](bigace/manual/configurations/admin/feedback.email) on how to change the email address.
+Read [bigace:manual:configurations:admin:feedback.email](manual/configurations/admin/feedback.email) on how to change the email address.
 
 ## See also
 
 
-*  Want to display your own credits? Then read the [bigace:developer:credits](bigace/developer/credits) docu.
+*  Want to display your own credits? Then read the [bigace:developer:credits](developer/credits) docu.
 

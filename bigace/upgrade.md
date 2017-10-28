@@ -2,15 +2,15 @@
 
 Upgrading your CMS to the next version is always a good idea :-)
 
-Please note: If you are going to perform an upgrade before 2.5 (e.g. from 2.3 to 2.4), use the [old upgrade guide](bigace/upgrade/old).
+Please note: If you are going to perform an upgrade before 2.5 (e.g. from 2.3 to 2.4), use the [old upgrade guide](upgrade/old).
 
 The following information match the core upgrades from 2.5 on.
 
 Special instructions for single versions can be found here:
 
-*  [bigace:upgrade:24](bigace/upgrade/24)
+*  [bigace:upgrade:24](upgrade/24)
 
-*  [bigace:upgrade:25](bigace/upgrade/25)
+*  [bigace:upgrade:25](upgrade/25)
 
 Follow the given order (see below), otherwise your CMS might be broken.
 
@@ -51,7 +51,7 @@ Creating backups should be a natural task in every IT environment, but I mention
 
 # Modules
 
-All installed Modules must be updated manually. Please have a look at the [Extensions](bigace/extensions) detail page, to see if there is an update available.
+All installed Modules must be updated manually. Please have a look at the [Extensions](extensions) detail page, to see if there is an update available.
 Some of your modules might require an upgrade, in order to work with your new CMS version.
 
 You can also try to find the Update through the remote Extension search from the Administration.

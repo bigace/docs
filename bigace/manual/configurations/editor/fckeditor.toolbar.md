@@ -12,6 +12,6 @@ Configures the toolbar when using ''fckeditor'' as [..:editor:default.editor](..
 ## See also
 
 
-*  [Configuring Bigace](bigace/manual/configurations)
+*  [Configuring Bigace](manual/configurations)
 
 

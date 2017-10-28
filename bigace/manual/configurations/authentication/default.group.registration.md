@@ -2,7 +2,7 @@
 
 Package: **[.](.)**
 
-The group that is assigned to a [self-registered user](bigace/administration/self-registration).
+The group that is assigned to a [self-registered user](administration/self-registration).
 
 *  Default: ''ANONYMOUS''
 
@@ -14,8 +14,8 @@ The group that is assigned to a [self-registered user](bigace/administration/sel
 ## See also
 
 
-*  [Configuring Bigace](bigace/manual/configurations)
+*  [Configuring Bigace](manual/configurations)
 
-*  [bigace:administration:self-registration](bigace/administration/self-registration)
+*  [bigace:administration:self-registration](administration/self-registration)
 
 

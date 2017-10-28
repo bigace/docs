@@ -50,9 +50,9 @@ After you moved database and filesystem to the new machine, you can now change t
 
 ## Environment changed
 
-If your new webhost does not support URL Rewriting and you want to turn it off, or you want to activate it because your new hoster supports .htaccess files, please read the [URL Rewriting](bigace/administration/urlrewriting) Guide.
+If your new webhost does not support URL Rewriting and you want to turn it off, or you want to activate it because your new hoster supports .htaccess files, please read the [URL Rewriting](administration/urlrewriting) Guide.
 
-If you now run in a subfolder of your domain, read how to change that in the config file [consumer.ini](bigace/manual/community#consumer.ini).
+If you now run in a subfolder of your domain, read how to change that in the config file [consumer.ini](manual/community#consumer.ini).
 
 # SEO
 

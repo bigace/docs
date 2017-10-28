@@ -14,4 +14,4 @@ Configuration:
 
 ## Securimage
 
-See [bigace:extensions:captcha:securimage](bigace/extensions/captcha/securimage).
+See [bigace:extensions:captcha:securimage](extensions/captcha/securimage).

@@ -1,14 +1,16 @@
 # Bigace Documentation
 
-Our goal is to provide you with everything you need to work with BIGACE.
+Welcome to the documentation for the BIGACE CMS!
 
-Welcome to the documentation for the BIGACE CMS! 
-- [Install BIGACE](bigace/installation) - Step-by-step to your new Bigace driven website
-- [Upgrade your System](bigace/upgrade) - Step-by-step to the next Bigace Version
-- [Plugins & Extensions](bigace/extensions) - A list of existing addon's, plugins, templates and modules
-- [User Manual](bigace/manual) - Using BIGACE  and its Administration, editing content, resizing images ... 
-- [Developer](bigace/developer) - Extending Bigace with your code. Write plugins, design layouts
-- [Administrator](bigace/administration) - Administrate and configure your Bigace installation 
+This documentation looks funky, as it is an auto-import from a dokuwiki installation, using the [DokuWiki-to-Markdown-Converter](https://github.com/ludoza/DokuWiki-to-Markdown-Converter).
+It was imported to keep the history of Bigace alive, without the need of hosting the old infrastructure. 
+ 
+* [Install BIGACE](bigace/installation) - Step-by-step to your new Bigace driven website
+* [Upgrade your System](bigace/upgrade) - Step-by-step to the next Bigace Version
+* [Plugins & Extensions](bigace/extensions) - A list of existing addon's, plugins, templates and modules
+* [User Manual](bigace/manual) - Using BIGACE  and its Administration, editing content, resizing images ... 
+* [Developer](bigace/developer) - Extending Bigace with your code. Write plugins, design layouts
+* [Administrator](bigace/administration) - Administrate and configure your Bigace installation 
 
 # Development
 

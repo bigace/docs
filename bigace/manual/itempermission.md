@@ -57,4 +57,4 @@ The default permissions in a fresh installation can be resetted by executing (ca
 	UPDATE group_right SET `value` = '7' WHERE itemtype = '5' AND itemid = '-1' AND group_id = '40';
 
 
-Remember to add the [database prefix](bigace/manual/database) to the table.
+Remember to add the [database prefix](manual/database) to the table.

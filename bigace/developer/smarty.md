@@ -7,7 +7,7 @@ Here are some articles related to Smarty, which were originally written for Biga
 
 *  [Smarty Templates](./smarty/tutorial) - create a design, Step-by-Step
 
-*  [Smarty Tags](bigace/smarty_tags) - for templates customization & dynamic data
+*  [Smarty Tags](smarty_tags) - for templates customization & dynamic data
 
 *  [TAGs in page content](./smarty/content) - for these special situations...
 
@@ -17,14 +17,14 @@ Here are some articles related to Smarty, which were originally written for Biga
 
 ## Using web resources
 
-To load resuorces like images and CSS files in your template, you need the [{directory}](bigace/smarty_tags/directory) TAG:
+To load resuorces like images and CSS files in your template, you need the [{directory}](smarty_tags/directory) TAG:
 
 	:::html
 	`<link rel="stylesheet" type="text/css" href="{directory}styles.css" />`
 	`<script type="text/javascript" src="{directory}script.js">``</script>`
 
 
-The [{directory}](bigace/smarty_tags/directory) returns the path to your communities web directory.
+The [{directory}](smarty_tags/directory) returns the path to your communities web directory.
 
 If you created your template using a extension, you might be using a subfolder. Make sure to append it in this case:
 
@@ -42,7 +42,7 @@ This will expand to:
 
 ## Inline styles and scripts
 
-Smarty uses the {} brackets as identifier for [template tags](bigace/smarty_tags). You will notice that using inline CSS or Javascript like ...
+Smarty uses the {} brackets as identifier for [template tags](smarty_tags). You will notice that using inline CSS or Javascript like ...
 
 	:::css
 	`<style type="text/css">`

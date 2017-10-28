@@ -36,7 +36,7 @@ The Smiley Plugin uses a Smarty modifier for easy Template usage.
 
 Please visit its page for further information:
 
-*  [{";)"](bigace/smarty_tags/smileys) - parse an input string to replace inherited smileys with icons
+*  [{";)"](smarty_tags/smileys) - parse an input string to replace inherited smileys with icons
 
 ## Included smileys
 

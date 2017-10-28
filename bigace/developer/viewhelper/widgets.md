@@ -1,6 +1,6 @@
 # widgets()
 
-The **widgets** ViewHelper fetches [bigace:manual:widgets](bigace/manual/widgets) for a given Item.
+The **widgets** ViewHelper fetches [bigace:manual:widgets](manual/widgets) for a given Item.
 
 -> Since BIGACE 3.0
 
@@ -17,7 +17,7 @@ Returns an array of Widget obbjects, see API.
     
 ## Example
 
-This example shows to load and display widgets in a normal (one column) [layout](bigace/developer/zendtemplate).
+This example shows to load and display widgets in a normal (one column) [layout](developer/zendtemplate).
 
 	:::php
 	<?php 
@@ -65,9 +65,9 @@ This example shows support for multiple widget columns.
 ## See also
 
 
-*  [bigace:manual:widgets](bigace/manual/widgets) - what are widgets
+*  [bigace:manual:widgets](manual/widgets) - what are widgets
 
-*  [bigace:developer:zendtemplate](bigace/developer/zendtemplate) - enable widgets in your template
+*  [bigace:developer:zendtemplate](developer/zendtemplate) - enable widgets in your template
 
 *  [Widget API](http://dev.bigace.org/api/latest/Bigace_Widget/Bigace_Widget.html)
 

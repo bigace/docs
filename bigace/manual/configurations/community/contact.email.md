@@ -12,6 +12,6 @@ The default contact email for your community. The default address from within th
 ## See also
 
 
-*  [Configuring Bigace](bigace/manual/configurations)
+*  [Configuring Bigace](manual/configurations)
 
 

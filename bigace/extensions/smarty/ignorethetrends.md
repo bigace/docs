@@ -36,7 +36,7 @@ It is improved, to display Search results as introduced with BIGACE 2.4 (see bel
 
 If you want to use this Design as your main Website design, you might also want to display search results in this design.
 
-Please read how to [customize the Search header and footer](bigace/administration/search) and use the following includes:
+Please read how to [customize the Search header and footer](administration/search) and use the following includes:
 
 
 *  Header: "**IgnoreTheTrends (Header)**"

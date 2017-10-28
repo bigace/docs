@@ -10,7 +10,7 @@ You don't have to do anything to use the classes, the environment is properly se
 	$config = new Zend_Config();
 
 
-To use Zend Framework in Bigace 2.x you have to [adjust the ZF include path](bigace/developer/v2/zend).
+To use Zend Framework in Bigace 2.x you have to [adjust the ZF include path](developer/v2/zend).
 
 ## See also
 

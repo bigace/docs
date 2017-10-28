@@ -12,6 +12,6 @@ A descriptive slogan or name for your website. The initial name can be entered d
 ## See also
 
 
-*  [Configuring Bigace](bigace/manual/configurations)
+*  [Configuring Bigace](manual/configurations)
 
 

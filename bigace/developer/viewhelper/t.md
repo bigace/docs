@@ -60,7 +60,7 @@ This example shows how to load a translation file.
 
 ## See also
 
-*  [bigace:developer:translations](bigace/developer/translations)
+*  [bigace:developer:translations](developer/translations)
 
 *  [ViewHelper t() API](http://dev.bigace.org/api/latest/Bigace_Zend/View_Helper/Bigace_Zend_View_Helper_T.html).
 

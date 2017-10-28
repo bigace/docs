@@ -1,8 +1,8 @@
 # TinyMCE
 
-See the [TinyMCE Editor](bigace/manual/tinymce) page for more information and external links.
+See the [TinyMCE Editor](manual/tinymce) page for more information and external links.
 
-The TinyMCE Editor is another Cross-Browser WYSIWYG Editor, in some points better then the default [FCKeditor](bigace/manual/fckeditor).
+The TinyMCE Editor is another Cross-Browser WYSIWYG Editor, in some points better then the default [FCKeditor](manual/fckeditor).
 
 The implementation for BIGACE is in "development" state, cause its currently not 100% compatible.
 It is working, but there is a problem with the Image Preview Dialog, which will be fixed soon.

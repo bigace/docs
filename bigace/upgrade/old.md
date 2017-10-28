@@ -54,7 +54,7 @@ Create backups of the following files:
 
 # Modules
 
-All installed Modules must be updated manually. Please have a look at the [Extensions](bigace/extensions) detail page, to see if there is an update available.
+All installed Modules must be updated manually. Please have a look at the [Extensions](extensions) detail page, to see if there is an update available.
 Some of your modules might require an upgrade, in order to work with your new CMS version.
 
 You can also try to find the Update through the remote Extension search from your Administration!

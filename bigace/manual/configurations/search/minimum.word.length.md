@@ -14,7 +14,7 @@ This setting is for example used in validation processes or during the content s
 ## See also
 
 
-*  [Configuring Bigace](bigace/manual/configurations)
+*  [Configuring Bigace](manual/configurations)
 
 *  [Mysql Full-text search](http://dev.mysql.com/doc/refman/5.0/en/fulltext-fine-tuning.html)
 

@@ -2,9 +2,9 @@
 
 The {news_category} TAG returns or displays all Categories the given News was published with.
 
-If you are looking for a way to display all available News categories, see [{news_categories}](bigace/smarty_tags/news_categories).
+If you are looking for a way to display all available News categories, see [{news_categories}](smarty_tags/news_categories).
 
--> Since BIGACE 2.4 and [News](bigace/extensions/addon/news) v0.9.
+-> Since BIGACE 2.4 and [News](extensions/addon/news) v0.9.
 
 
 ## Attributes

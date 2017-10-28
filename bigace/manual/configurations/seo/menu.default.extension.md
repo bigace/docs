@@ -14,6 +14,6 @@ Common extension are ''.html'', ''/'' or just an empty string.
 ## See also
 
 
-*  [Configuring Bigace](bigace/manual/configurations)
+*  [Configuring Bigace](manual/configurations)
 
 

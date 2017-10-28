@@ -21,7 +21,7 @@ Bigace uses a comment parser to fetch meta-information about the layout. Therefo
 
 
 
-*  **Description** is what it says: a short description about the layout, shown in the [Layout Administration](bigace/manual/layout).
+*  **Description** is what it says: a short description about the layout, shown in the [Layout Administration](manual/layout).
 
 *  **Widgets** activates widgets for this layout. Put a comma separated list of widget columns here. If your layout should support widgets, you need to define one or more column names (use alpha-nummerical values only).
 
@@ -33,7 +33,7 @@ Bigace uses a comment parser to fetch meta-information about the layout. Therefo
 
 ## Thumbnail
 
-You can attach a thumbnail, so end-user get an idea of the layout when looking through the [Layout Administration](bigace/manual/layout). This thumnail has to have the name "screenshot.png" and a width of 250px. Put it into your layouts public path.
+You can attach a thumbnail, so end-user get an idea of the layout when looking through the [Layout Administration](manual/layout). This thumnail has to have the name "screenshot.png" and a width of 250px. Put it into your layouts public path.
 
 If you want to rename the file use the options "screenshot" (see below) or store it in another path (see "Path" setting).
 
@@ -76,13 +76,13 @@ You get a working layout that uses menus, app links, sitename and widgets and sh
 
 ### Check your Layout
 
-Switch to the [Layout Administration](bigace/manual/layout) and see if your new layout shows up there with name and description.
+Switch to the [Layout Administration](manual/layout) and see if your new layout shows up there with name and description.
 
 To test your new layout, set it as default or apply it to a single page and open that page in the browser.
 
 ### Preview thumbnail
 
-After your layout is now ready for work, take a screenshot and save it (with a width of 250px) at ''/public/cid1/EasyFluffy/screenshot.png''. This thumbnail will then show up in the [Layout Administration](bigace/manual/layout) beside the layouts name and description.
+After your layout is now ready for work, take a screenshot and save it (with a width of 250px) at ''/public/cid1/EasyFluffy/screenshot.png''. This thumbnail will then show up in the [Layout Administration](manual/layout) beside the layouts name and description.
 
 ## Using ViewHelper
 

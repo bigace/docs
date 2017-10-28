@@ -1,6 +1,6 @@
 # Reading Userdata
 
-[User-data](bigace/administration/userattributes) ist the data that each user can edit in the administration, by accessing the own profile and clicking the "Userdata" tab.
+[User-data](administration/userattributes) ist the data that each user can edit in the administration, by accessing the own profile and clicking the "Userdata" tab.
 
 Please note, that Bigace makes a difference between user-data and user-settings. The settings are account related information like language and email adress, where user-data is not directly important for Bigace core system. User-data is meant for application developer, who want to read and write user related information.
 
@@ -43,6 +43,6 @@ If you try to access the user-attributes in your code, you have to know, that Bi
 
 ## Read more
 
-*  [bigace:administration:userattributes](bigace/administration/userattributes)
+*  [bigace:administration:userattributes](administration/userattributes)
 
 TODO add api links

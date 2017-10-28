@@ -12,4 +12,4 @@ Whether pages should send a pragma-no-cache header.
 ## See also
 
 
-*  [Configuring Bigace](bigace/manual/configurations)
+*  [Configuring Bigace](manual/configurations)

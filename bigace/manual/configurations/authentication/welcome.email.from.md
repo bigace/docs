@@ -20,6 +20,6 @@ This setting only applies when [.:allow.self.registration](./allow.self.registra
 ## See also
 
 
-*  [Configuring Bigace](bigace/manual/configurations)
+*  [Configuring Bigace](manual/configurations)
 
 

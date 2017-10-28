@@ -14,6 +14,6 @@ The maximum amount of character within the captcha, that is used during installa
 ## See also
 
 
-*  [Configuring Bigace](bigace/manual/configurations)
+*  [Configuring Bigace](manual/configurations)
 
 

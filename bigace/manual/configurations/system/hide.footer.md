@@ -10,6 +10,6 @@ If activated (TRUE) a HTML comment will be appended to each page with some debug
 ## See also
 
 
-*  [Configuring Bigace](bigace/manual/configurations)
+*  [Configuring Bigace](manual/configurations)
 
 

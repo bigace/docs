@@ -280,5 +280,5 @@ Please refer to the Portlet class docu for more information!
 
 ### Further links
 
-There is an [old page about Portlets](bigace/developer/portlet), with mixed information...
+There is an [old page about Portlets](developer/portlet), with mixed information...
 

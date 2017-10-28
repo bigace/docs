@@ -15,6 +15,6 @@ One Itemtype consists of
 
 *  ID
 
-*  Directory - where content will be stored (in your [Community](Community) directory below [cid{CID}](bigace/cid_cid)/items/)
+*  Directory - where content will be stored (in your [Community](Community) directory below [cid{CID}](cid_cid)/items/)
 
 *  ...

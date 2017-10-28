@@ -2,7 +2,7 @@
 
 This extension is a package of tools and Smarty TAGs, meant to easify your life, making BIGACE more search engine friendly.
 
-You should consider, reading the article about [URL Rewriting](bigace/administration/urlrewriting) (really important for SEO) as well!
+You should consider, reading the article about [URL Rewriting](administration/urlrewriting) (really important for SEO) as well!
 
 **__PLEASE NOTE:__**
 The current version works, but it has only a small number of functions right now. Please post any thoughts you have about existing and future releases in the forum!
@@ -21,13 +21,13 @@ Get all downloads from:
 SEO:
 
     * Register for Google Analytics to get your ID
-    * put [{google_analytics  id='UA-xxxxxx-x'}](bigace/smarty_tags/google_analytics){google_analytics} in your template
+    * put [{google_analytics  id='UA-xxxxxx-x'}](smarty_tags/google_analytics){google_analytics} in your template
     * wait for a day
  
     OR 
 
-    * Use Piwik for user statistics (read [{piwik}](bigace/smarty_tags/piwik) for more information)
-    * put [{piwik}](bigace/smarty_tags/piwik) in your template
+    * Use Piwik for user statistics (read [{piwik}](smarty_tags/piwik) for more information)
+    * put [{piwik}](smarty_tags/piwik) in your template
     * enjoy your "live" tracking data right away
 
 Sitemap:
@@ -44,15 +44,15 @@ Configurable HTML Metatags:
 
 *  Create a page and fill in the values for your metatags
 
-*  Use [{metatags}](bigace/smarty_tags/metatags) in your template
+*  Use [{metatags}](smarty_tags/metatags) in your template
 
 ## Contents
 
  1.  Smarty TAGs: 
-    - [{google_analytics}](bigace/smarty_tags/google_analytics)
-    - [{piwik}](bigace/smarty_tags/piwik)
+    - [{google_analytics}](smarty_tags/google_analytics)
+    - [{piwik}](smarty_tags/piwik)
  2.  Google Sitemap: see below for usage 
- 3.  To use Piwik instead of Google Analytics, please read the [{piwik} documentation](bigace/smarty_tags/piwik)
+ 3.  To use Piwik instead of Google Analytics, please read the [{piwik} documentation](smarty_tags/piwik)
 
 ## Google Sitemap
 
@@ -70,7 +70,7 @@ I just mention Google explicit, because here in Germany it's the only Search eng
 
 ## Sitemap for all major Search Engines
 
-If you use [URL Rewriting](bigace/administration/urlrewriting), you can even go one step further and edit you .htaccess file in the BIGACE root folder: **/.htaccess**
+If you use [URL Rewriting](administration/urlrewriting), you can even go one step further and edit you .htaccess file in the BIGACE root folder: **/.htaccess**
 
 Add the following line:
 

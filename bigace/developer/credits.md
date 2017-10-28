@@ -1,9 +1,9 @@
 # Credits
 
-As developer you might be interested to add an entry to Bigace [bigace:manual:about](bigace/manual/about) screen. Doing that is possible through two ways:
+As developer you might be interested to add an entry to Bigace [bigace:manual:about](manual/about) screen. Doing that is possible through two ways:
 
  1.  copying an INI file to the folder ''/application/bigace/modules/admin/credits''
- 2.  registering a listener for the [bigace:developer:filter:credits](bigace/developer/filter/credits) filter
+ 2.  registering a listener for the [bigace:developer:filter:credits](developer/filter/credits) filter
 
 If you write a PHP extension for Bigace, you should always choose to use the filter! If you don't have a Plugin, you can choose to use the INI way. But remember that INI files are rendered for every Community (even if they don't use your extension).
 
@@ -23,6 +23,6 @@ Create the file ''/application/bigace/modules/admin/credits/foo.ini''
 
 ## Example: Filter
 
-Please read the filter docu of [bigace:developer:filter:credits](bigace/developer/filter/credits).
+Please read the filter docu of [bigace:developer:filter:credits](developer/filter/credits).
 
-Remember that your [bigace:plugins](bigace/plugins) needs to be activated, otherwise the [Filter](bigace/developer/hooks) will not be executed.
+Remember that your [bigace:plugins](plugins) needs to be activated, otherwise the [Filter](developer/hooks) will not be executed.

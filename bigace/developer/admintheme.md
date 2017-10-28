@@ -10,11 +10,11 @@ Creating a new theme is easy if you know CSS, as a theme is not more than a CSS 
 
 *  Adjust the CSS settings in ''theme_new.css'' and save the file
 
-*  Go to [bigace:manual:configurations](bigace/manual/configurations) and change the key "admin/theme" from "theme_blue" to "theme_new"
+*  Go to [bigace:manual:configurations](manual/configurations) and change the key "admin/theme" from "theme_blue" to "theme_new"
 
 *  Enjoy your new theme
 
 ## See also
 
 
-*  [Bigace 2.x Admin themes](bigace/developer/v2/admintheme)
+*  [Bigace 2.x Admin themes](developer/v2/admintheme)

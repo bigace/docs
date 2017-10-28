@@ -12,6 +12,6 @@ The copyright holder of your community. You can apply any string in here, normal
 ## See also
 
 
-*  [Configuring Bigace](bigace/manual/configurations)
+*  [Configuring Bigace](manual/configurations)
 
 

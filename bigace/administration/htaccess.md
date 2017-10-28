@@ -1,8 +1,8 @@
 Links of interest:
 
-   * [URL Rewriting](bigace/administration/urlrewriting) via .htaccess files
-   * Using [SSL](bigace/administration/ssl) encryption
-   * [Password salting](bigace/administration/salting) to fight dictionary attacks
+   * [URL Rewriting](administration/urlrewriting) via .htaccess files
+   * Using [SSL](administration/ssl) encryption
+   * [Password salting](administration/salting) to fight dictionary attacks
 
 # Security
 

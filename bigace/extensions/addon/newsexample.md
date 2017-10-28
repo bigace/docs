@@ -27,9 +27,9 @@ You are now able to create your own News Design and implementation. Have fun :)
 
 *  using news date instead of create date
 
-*  using [{news_category}](bigace/smarty_tags/news_category) TAG with pre-rendered html
+*  using [{news_category}](smarty_tags/news_category) TAG with pre-rendered html
 
-*  using [{news_categories}](bigace/smarty_tags/news_categories) TAG with pre-rendered html
+*  using [{news_categories}](smarty_tags/news_categories) TAG with pre-rendered html
 
 **Version 0.2:**
 

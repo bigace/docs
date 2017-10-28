@@ -1,6 +1,6 @@
 # News-Example
 
-The News-Example is an [Extension](bigace/extensions) to the official [News System](bigace/extensions/addon/news).
+The News-Example is an [Extension](extensions) to the official [News System](extensions/addon/news).
 
 It brings some example Includes and Templates to be used with the News System. After installation, you only have to configure the News System as required and you can start, creating your own small News Website.
 

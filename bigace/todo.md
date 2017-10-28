@@ -8,23 +8,23 @@ This is an unsorted list of ideas... none of them MUST ever be created or done, 
 FIXME Following points must be fixed to complete the manual migration:
 
 
-*  [Object permissions (Read/Write/Delete)](bigace/manual/objectrights)  (translate to english)
+*  [Object permissions (Read/Write/Delete)](manual/objectrights)  (translate to english)
 
-*  [Menu Administration](bigace/manual/menutree)  (add content - only page skeleton exists)
+*  [Menu Administration](manual/menutree)  (add content - only page skeleton exists)
 
-*  [Menu Workflow](bigace/manual/menuworkflow) (translate to english)
+*  [Menu Workflow](manual/menuworkflow) (translate to english)
 
-*  [Feedback](bigace/manual/feedback) (translate to english)
+*  [Feedback](manual/feedback) (translate to english)
 
-*  [Categories](bigace/manual/categoryAdmin) (add content - translate to english)
+*  [Categories](manual/categoryAdmin) (add content - translate to english)
 
-*  [Configurations](bigace/manual/configurations) (add latest configuration types)
+*  [Configurations](manual/configurations) (add latest configuration types)
 
-*  [Community Administration](bigace/manual/community) (partially translate to english)
+*  [Community Administration](manual/community) (partially translate to english)
 
-*  [Updates](bigace/manual/updates) (translate to english)
+*  [Updates](manual/updates) (translate to english)
 
-Find a good link place for [bigace:faq](bigace/faq).
+Find a good link place for [bigace:faq](faq).
 
 Merge the Glossary from the old Docbook User Manuals ?!
 
@@ -35,9 +35,9 @@ Merge the Glossary from the old Docbook User Manuals ?!
 ## Wiki
 
 
-*  [Add Smarty Tags detail Pages](bigace/smarty_tags)
+*  [Add Smarty Tags detail Pages](smarty_tags)
 
-*  Complete attribute list on [{breadcrumb}](bigace/smarty_tags/breadcrumb)
+*  Complete attribute list on [{breadcrumb}](smarty_tags/breadcrumb)
 
 ## Website/ Docu
 

@@ -20,7 +20,7 @@ The Layout administration is the place to:
 If you want to customize a Layout, the following articles might help:
 
 
-*  [Basics about writing Zend_Layouts](bigace/developer/zendtemplate)
+*  [Basics about writing Zend_Layouts](developer/zendtemplate)
 
-*  [All available ViewHelper](bigace/developer/viewhelper)
+*  [All available ViewHelper](developer/viewhelper)
 

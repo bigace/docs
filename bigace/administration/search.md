@@ -58,7 +58,7 @@ Last but not least:
 
 *  $result -> the results of your query (see below for more information)
 
-If you use a custom Template, you should use your own stylesheet by using the [{stylesheet}](bigace/smarty_tags/stylesheet) TAG.
+If you use a custom Template, you should use your own stylesheet by using the [{stylesheet}](smarty_tags/stylesheet) TAG.
 
 You could even customize the complete Search formular and the Search result by editing the Template "APPLICATION-SEARCH".
 

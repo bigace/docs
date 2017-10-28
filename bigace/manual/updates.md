@@ -5,9 +5,9 @@ This topic coves the different methods to install BIGACE extensions.
 **Related articles:**
 
 
-*  A full list of [all available Extensions.](bigace/extensions)
+*  A full list of [all available Extensions.](extensions)
 
-*  How to [create a new Extension?](bigace/update)
+*  How to [create a new Extension?](update)
 
 ## Step by Step
 
@@ -18,7 +18,7 @@ This topic coves the different methods to install BIGACE extensions.
 
 ## Find Extensions
 
-The page [Extensions](bigace/extensions) covers a list of available extensions and related resources.
+The page [Extensions](extensions) covers a list of available extensions and related resources.
 
 Since BIGACE 2.4, you can also go to your Administration and open the "Systems/Extensions" Panel. Switch to the "Find Extensions" tab and hit the "Search Extensions" button. 
 This will sends a SOAP request to the BIGACE Home Server, searching for all known extensions. The result is a list of known extensions, that is displayed to you including download links.

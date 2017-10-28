@@ -5,7 +5,7 @@ If you want to display dynamic information within the pages content, you have to
 Its a simple security reason why this function is not added to the Core system. But I'll come back to this later. 
 
 First, lets have a look at the required code. If you know Smarty and the BIGACE API, its quite simple to achieve.
-Search your template and find the part where the pages module is loaded, which is normally done by using the [{modul}](bigace/smarty_tags/modul) TAG. For example:
+Search your template and find the part where the pages module is loaded, which is normally done by using the [{modul}](smarty_tags/modul) TAG. For example:
 
 	:::html
 	`<div id="content">`

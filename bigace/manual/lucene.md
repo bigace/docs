@@ -1,6 +1,6 @@
 # Lucene search
 
-In Bigace v3 the [MySQL search](bigace/manual/search) was replaced with Lucene.
+In Bigace v3 the [MySQL search](manual/search) was replaced with Lucene.
 
 ## Indexing
 

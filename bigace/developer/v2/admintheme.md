@@ -5,9 +5,9 @@ When you are going to create a new Admin Style you have to follow only some easy
 Each Admin Style has its own Directory below **/public/system/style/**. When first creating your Style, copy everything from the "standard" Theme and replace the files (with same names) with your ones.
 
 
-*  [General information about Admin Themes](bigace/admin_themes)
+*  [General information about Admin Themes](admin_themes)
 
-*  [A list of all available Admin Themes](bigace/extensions/admintheme)
+*  [A list of all available Admin Themes](extensions/admintheme)
 
 
 ## Directory Structure

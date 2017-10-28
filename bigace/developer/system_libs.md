@@ -7,7 +7,7 @@ If you want to include a Library in your Script, add a code block like this:
 	include_once($GLOBALS['_BIGACE']['DIR']['libs'].'footer.inc.php');
 
 
-These two Libraries might be interesting for you, the other ones are [deprecated](bigace/developer/v2/deprecated) or Core Librarys!
+These two Libraries might be interesting for you, the other ones are [deprecated](developer/v2/deprecated) or Core Librarys!
 
 ## init_session.inc.php
 

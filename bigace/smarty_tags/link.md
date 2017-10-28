@@ -10,7 +10,7 @@ The {link} TAG creates an URL to link to any Item.
 
 
 *  **item** - (__required__, Item)
-    Required attribute only if the id/language or url parameter are missing, otherwise it is optional. The Item itself could for exmaple be fetched with the [{load_item}](bigace/smarty_tags/load_item) TAG.
+    Required attribute only if the id/language or url parameter are missing, otherwise it is optional. The Item itself could for exmaple be fetched with the [{load_item}](smarty_tags/load_item) TAG.
 
  OR
 

@@ -15,9 +15,9 @@ Bigace has two magic users:
 The following articles might be of interest to you as well:
 
 
-*  [bigace:administration:reset-user-passwort-with-sql](bigace/administration/reset-user-passwort-with-sql)
+*  [bigace:administration:reset-user-passwort-with-sql](administration/reset-user-passwort-with-sql)
 
 ## Related configurations
 
 
-*  [bigace:manual:configurations:authentication:admin.password.reset](bigace/manual/configurations/authentication/admin.password.reset)
+*  [bigace:manual:configurations:authentication:admin.password.reset](manual/configurations/authentication/admin.password.reset)

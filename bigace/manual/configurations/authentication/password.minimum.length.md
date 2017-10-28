@@ -2,7 +2,7 @@
 
 Package: **[.](.)**
 
-The minimum character password length that a user must enter during [bigace:administration:self-registration](bigace/administration/self-registration). If the choosen password is shorter, the registration will be rejected and a validation message (containing the value of this config setting) will be shown. 
+The minimum character password length that a user must enter during [bigace:administration:self-registration](administration/self-registration). If the choosen password is shorter, the registration will be rejected and a validation message (containing the value of this config setting) will be shown. 
 
 
 *  Type: Integer
@@ -19,6 +19,6 @@ The minimum character password length that a user must enter during [bigace:admi
 ## See also
 
 
-*  [Configuring Bigace](bigace/manual/configurations)
+*  [Configuring Bigace](manual/configurations)
 
-*  [bigace:administration:self-registration](bigace/administration/self-registration)
+*  [bigace:administration:self-registration](administration/self-registration)

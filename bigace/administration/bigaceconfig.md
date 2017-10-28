@@ -30,4 +30,4 @@ If you accidentally deleted it, you can recreate by pasting the following code i
 	);
 
 
-Note: It is correct that there is no closing PHP Tag ?> - read [bigace:developer:codeconventions](bigace/developer/codeconventions).
+Note: It is correct that there is no closing PHP Tag ?> - read [bigace:developer:codeconventions](developer/codeconventions).

@@ -170,7 +170,7 @@ If you have more information, hints or any advice that might help other Users wi
 
 ## Safe Mode turned on
 
-Uhoh, this is not good... BIGACE has workarounds for this problem, but Safe Mode is not the best solution to solve permission questions on shared-hosting environments! Talk to a qualified Administrator and read [Safe Mode](bigace/installation/safe_mode) in between.
+Uhoh, this is not good... BIGACE has workarounds for this problem, but Safe Mode is not the best solution to solve permission questions on shared-hosting environments! Talk to a qualified Administrator and read [Safe Mode](installation/safe_mode) in between.
 
 ## Checkup shows problems
 
@@ -218,5 +218,5 @@ This is often caused by Webserver settings:
  1.  **AllowOverride** for **.htaccess** is turned off
  2.  the **mod_rewrite** module is not loaded in Apache
 
-Please read [URL Rewriting](bigace/administration/urlrewriting) carefully.
+Please read [URL Rewriting](administration/urlrewriting) carefully.
 

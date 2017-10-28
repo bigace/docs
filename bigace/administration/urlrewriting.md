@@ -4,9 +4,9 @@ BIGACE supports beauty URLs by using URL Rewriting features for URLs like **/big
 
 Since BIGACE 2.4 we support even unqiue URLs like **/news.html** or **/beispiel.jpg**.
 
-Read more about [.htaccess security](bigace/administration/htaccess).
+Read more about [.htaccess security](administration/htaccess).
 
-NOTE: BIGACE supports [LightHTTPD](bigace/administration/lighthttpd), please see the linked article.
+NOTE: BIGACE supports [LightHTTPD](administration/lighthttpd), please see the linked article.
 
 # Requirements
 

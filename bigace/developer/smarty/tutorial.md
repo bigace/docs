@@ -87,7 +87,7 @@ Add following content into the template editor:
 
 Before saving the Template check the radio button **Template ready (choosable for new Designs)**.
 
-For a "real world" template you might need a lot more [Smarty TAGs](bigace/smarty_tags). 
+For a "real world" template you might need a lot more [Smarty TAGs](smarty_tags). 
 
 
 Last point is to create a design, which then can be assigned to menus. 
@@ -116,4 +116,4 @@ Now hit the **Preview Button** and the menu will be displayed ... in green, oran
 Thats all, should be done in 20 minutes even without experience.
 Have fun and post your experience about this article in the Forum or improve it, if you find any mistake!
 
-Please read the page [bigace:developer:smarty](bigace/developer/smarty) carefully and check out the default template skeleton.
+Please read the page [bigace:developer:smarty](developer/smarty) carefully and check out the default template skeleton.

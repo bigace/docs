@@ -1,6 +1,6 @@
 # credits
 
-The credits [filter](bigace/developer/hooks) will be executed before the [bigace:manual:about](bigace/manual/about) screen will be rendered.
+The credits [filter](developer/hooks) will be executed before the [bigace:manual:about](manual/about) screen will be rendered.
 
 It holds an array of credit entries.
 
@@ -27,9 +27,9 @@ It holds an array of credit entries.
 ## See also
 
 
-*  You can also create an INI file to display [bigace:developer:credits](bigace/developer/credits).
+*  You can also create an INI file to display [bigace:developer:credits](developer/credits).
 
-*  [bigace:developer:hooks](bigace/developer/hooks)
+*  [bigace:developer:hooks](developer/hooks)
 
-*  Writing [bigace:plugins](bigace/plugins) to extend Bigace
+*  Writing [bigace:plugins](plugins) to extend Bigace
 

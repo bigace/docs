@@ -1,6 +1,6 @@
 # Tip of the Day
 
-Tip of the Day is a [Extension](bigace/extensions) Module, which displays a random "tip", consisting of a "title", "link" and "text".
+Tip of the Day is a [Extension](extensions) Module, which displays a random "tip", consisting of a "title", "link" and "text".
 Tips are stored in your BIGACE DB in a separate table.
  
 Tips can be added, modified or deleted with a new Administration Panel, see "Extensions" -> "Tip of the Day".
@@ -17,9 +17,9 @@ Get all downloads from:
 
 ## Permissions
 
-To edit the tips, you must be the [SuperUser](bigace/manual/superuser) OR you 
-assign the [GroupPermission](bigace/manual/grouppermission) "tipoftheday" and 
-assign it to your administrating [UserGroup](bigace/manual/groupAdmin).
+To edit the tips, you must be the [SuperUser](manual/superuser) OR you 
+assign the [GroupPermission](manual/grouppermission) "tipoftheday" and 
+assign it to your administrating [UserGroup](manual/groupAdmin).
 
 ## Integration by Module
 
@@ -37,6 +37,6 @@ Otherwise the Tip will be appended at the Pages Bottom.
 
 ## Integration by Smarty TAG
 
-Have a look at the [{tip_of_the_day}](bigace/smarty_tags/tip_of_the_day) Smarty TAG docu.
+Have a look at the [{tip_of_the_day}](smarty_tags/tip_of_the_day) Smarty TAG docu.
 
 

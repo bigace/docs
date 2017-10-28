@@ -6,7 +6,7 @@ It was taken from **[http://www.kingcosmonaut.de/blix/](http://www.kingcosmonaut
 
 It uses portlets for the menu. In the footer you find links to Login and Administration, to make sure that you still have access even with missing portlets.
 
-There is a [configuration](bigace/manual/configurations) package for Blix called "blix" with the following keys:
+There is a [configuration](manual/configurations) package for Blix called "blix" with the following keys:
 
 
 *  **copyright.footer** - the Copyright String, that is displayed in the Footer, please change to your Company or Personal name!

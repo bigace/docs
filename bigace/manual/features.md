@@ -11,7 +11,7 @@ There are four main parts in the administration framework:
 
 *  the content or admin panel area
 
-The position of all components may be different from the mentioned one, if you use a different [Administration Theme](bigace/admin_themes)!
+The position of all components may be different from the mentioned one, if you use a different [Administration Theme](admin_themes)!
 
 ## Language switching
 

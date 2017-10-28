@@ -1,6 +1,6 @@
 # FCKeditor (deprecated)
 
-Read the [FCKeditor Manual page](bigace/manual/fckeditor) for more information and external links.
+Read the [FCKeditor Manual page](manual/fckeditor) for more information and external links.
 
 The FCKeditor is a Cross-Browser WYSIWYG HTML Editor, probably one of the most used in the WWW.
 

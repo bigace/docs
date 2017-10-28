@@ -37,4 +37,4 @@ This example shows how to show a logout link.
 	`</html>`
 
 
-For a full "admin links" example, see [bigace:smarty_tags:permission_editcontent](bigace/smarty_tags/permission_editcontent).
+For a full "admin links" example, see [bigace:smarty_tags:permission_editcontent](smarty_tags/permission_editcontent).

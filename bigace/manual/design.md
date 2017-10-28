@@ -1,9 +1,9 @@
 # Designs
 
-(Smarty) Designs are used for rendering your page. They load the configured [template](bigace/manual/templates) and [stylesheet](bigace/manual/stylesheet) and pass this information to the underlying engine.
+(Smarty) Designs are used for rendering your page. They load the configured [template](manual/templates) and [stylesheet](manual/stylesheet) and pass this information to the underlying engine.
 
 
-*  Download new [Templates and Designs](bigace/extensions).
+*  Download new [Templates and Designs](extensions).
 
 ## Default Designs
 
@@ -18,5 +18,5 @@ If a valid URL is given and the page is loaded, a redirect is sent to the browse
 
 ### BLIX
 
-This is the default layout provided with the standard BIGACE install. You can find other BIGACE-compatible layouts listed under [](bigace/extensions) here on the BIGACE web site. 
-For details on installing a downloaded layout, see [](bigace/manual/updates).
+This is the default layout provided with the standard BIGACE install. You can find other BIGACE-compatible layouts listed under [](extensions) here on the BIGACE web site. 
+For details on installing a downloaded layout, see [](manual/updates).

@@ -2,9 +2,9 @@
 
 Group permissions where called **functional rights** in the last versions.
 
-Group Permissions most often protect admin panel and application access. They are linked to  [User Groups](bigace/manual/groupadmin).
+Group Permissions most often protect admin panel and application access. They are linked to  [User Groups](manual/groupadmin).
 
-If a User is member of several [User Groups](bigace/manual/groupadmin), the highest (positive) permissions will be used.
+If a User is member of several [User Groups](manual/groupadmin), the highest (positive) permissions will be used.
 
 ## Permission listing
 
@@ -65,7 +65,7 @@ The following listing is an overview of all existing group permission.
 
 *  updates_manager - Allows to manage and install Updates.
 
-*  use_editor - Allows to edit page content with an editor. If deactivated the [{permission_editcontent}](bigace/smarty_tags/permission_editcontent) TAG will return false.
+*  use_editor - Allows to edit page content with an editor. If deactivated the [{permission_editcontent}](smarty_tags/permission_editcontent) TAG will return false.
 
 *  view_statistics - Allows to view statistics.
 

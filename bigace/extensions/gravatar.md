@@ -10,7 +10,7 @@
 Its easy as this:
 
 
-*  Download and install the [Comments](bigace/extensions/addon/comments) Extension
+*  Download and install the [Comments](extensions/addon/comments) Extension
 
 *  Activate Gravatar support in the configuration
 

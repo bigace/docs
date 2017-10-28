@@ -2,7 +2,7 @@
 
 Package: **[.](.)**
 
-The default [bigace:manual:layout](bigace/manual/layout) that is used, when a page or application has no own layout. This key is used to determine and set the default template through the [bigace:manual:layout](bigace/manual/layout) administration.
+The default [bigace:manual:layout](manual/layout) that is used, when a page or application has no own layout. This key is used to determine and set the default template through the [bigace:manual:layout](manual/layout) administration.
 
 
 *  Default: ''default''
@@ -10,6 +10,6 @@ The default [bigace:manual:layout](bigace/manual/layout) that is used, when a pa
 ## See also
 
 
-*  [Configuring Bigace](bigace/manual/configurations)
+*  [Configuring Bigace](manual/configurations)
 
 

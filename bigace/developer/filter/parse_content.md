@@ -1,6 +1,6 @@
 # parse_content
 
-The parse_content [filter](bigace/developer/hooks) will be executed after a Smarty (or PHP) Template was rendered. It receives the complete HTML output and the menu as parameter and can replace parts of the content dynamically.
+The parse_content [filter](developer/hooks) will be executed after a Smarty (or PHP) Template was rendered. It receives the complete HTML output and the menu as parameter and can replace parts of the content dynamically.
 
 This filter is ONLY called for rendered pages.
 
@@ -32,8 +32,8 @@ This example filter replaces the string "[google]" with the Google Logo:
 ## See also
 
 
-*  [bigace:developer:hooks](bigace/developer/hooks)
+*  [bigace:developer:hooks](developer/hooks)
 
-*  Writing [bigace:developer:plugins](bigace/developer/plugins) to extend Bigace
+*  Writing [bigace:developer:plugins](developer/plugins) to extend Bigace
 
 

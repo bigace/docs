@@ -4,7 +4,7 @@ At this Admin panel, you can configure core features of your system.
 
 Note: Please remember that values are not checked before saving! Make sure, that the values are valid for the configuration type (for example: do not enter "foo" in a **LONG** field).
 
-**Note:** You need to be [bigace:manual:superuser](bigace/manual/superuser) OR own the “admin_configurations” permission
+**Note:** You need to be [bigace:manual:superuser](manual/superuser) OR own the “admin_configurations” permission
 
 ## Configuration packages
 

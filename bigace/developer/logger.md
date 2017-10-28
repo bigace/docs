@@ -38,14 +38,14 @@ For a list of shipped logger types have a look at the folder **/system/classes/l
 
 *  StdoutLogger (since Bigace 2.7.8)
 
-*  [bigace:extensions:development:firephp](bigace/extensions/development/firephp) (not included in default installation)
+*  [bigace:extensions:development:firephp](extensions/development/firephp) (not included in default installation)
 
 ## More about logging
 
 
-*  [bigace:manual:configurations:system:logger.loglevel](bigace/manual/configurations/system/logger.loglevel)
+*  [bigace:manual:configurations:system:logger.loglevel](manual/configurations/system/logger.loglevel)
 
-*  [bigace:administration:filelogger](bigace/administration/filelogger)
+*  [bigace:administration:filelogger](administration/filelogger)
 
-*  [bigace:extensions:development:firephp](bigace/extensions/development/firephp)
+*  [bigace:extensions:development:firephp](extensions/development/firephp)
 

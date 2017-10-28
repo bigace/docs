@@ -17,6 +17,6 @@ To set this constant, you could edit the file /public/index.php or you simply se
 
 Components that make use of the APPLICATION_ENV constant:
 
-*  [bigace:developer:errorpages](bigace/developer/errorpages) - show debug information on 'development' systems
+*  [bigace:developer:errorpages](developer/errorpages) - show debug information on 'development' systems
 
-*  [bigace:developer:viewhelper:filemerge](bigace/developer/viewhelper/filemerge)
+*  [bigace:developer:viewhelper:filemerge](developer/viewhelper/filemerge)

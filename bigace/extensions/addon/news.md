@@ -1,8 +1,8 @@
 # News
 
-The News System is a fully fleged [Extension](bigace/extensions), initially written for BIGACE 2.4.
+The News System is a fully fleged [Extension](extensions), initially written for BIGACE 2.4.
 
-**Note:** Since BIGACE 2.6 the "News Entry" template includes the comments include if [Comments](bigace/extensions/addon/comments) plugin is loaded
+**Note:** Since BIGACE 2.6 the "News Entry" template includes the comments include if [Comments](extensions/addon/comments) plugin is loaded
 
 __Key features:__
 
@@ -21,9 +21,9 @@ __Key features:__
 
 *  RSS Feed to display the latest Items
 
-*  automatically inserts RSS url in your template (if using [bigace:smarty_tags:metatags](bigace/smarty_tags/metatags))
+*  automatically inserts RSS url in your template (if using [bigace:smarty_tags:metatags](smarty_tags/metatags))
 
-*  Several [Smarty TAGs](bigace/smarty_tags) to write your own templates and use News wherever you want
+*  Several [Smarty TAGs](smarty_tags) to write your own templates and use News wherever you want
 
 `<WRAP center round download>`
 
@@ -35,9 +35,9 @@ Get all downloads from:
 
 ## Installation
 
- 1.  Download (see below) and [install](bigace/manual/updates) the News.zip
+ 1.  Download (see below) and [install](manual/updates) the News.zip
  2.  Activate the Plugin
- 3.  Go to [User/Permissions](bigace/manual/grouppermission)
+ 3.  Go to [User/Permissions](manual/grouppermission)
  4.  Assign the news.* Permissions to your Administrator account and to all required Usergroups (see below)
  5.  Reload the Administration, you see the new Menu entry "News" below "Menus"
  6.  Configure your News System (see below "Configuration")
@@ -66,7 +66,7 @@ __Descriptions:__
 
 *  Create a "News" category (following News Categories will be stored below)
 
-*  Configure your News System at [Configurations](bigace/manual/configurations) with package "news":
+*  Configure your News System at [Configurations](manual/configurations) with package "news":
 
 __Names:__
  1.  category.id: *choose formerly created category*
@@ -83,8 +83,8 @@ __Description:__
  3.  Menu ID, where all News will be created below.
  4.  Template used to render the News Feed. If you want to customize it, create a copy of the original template and assign it here. Otherwise leave as is.
  5.  Template Name, which is assigned to each created News.
- 6.  The file extension to be used for unique URLs. Only used with activated [URL rewriting](bigace/administration/urlrewriting).
- 7.  The unique name pattern for new items, which will be used as prefix for the News entry unique name. The pattern will be piped through stftime, so its easy possible to create a date in the unique name (for example **%Y-%m-%d/** would create News with unique URLs like **2008-04-01/Example-News.html**).  Only used with activated [URL rewriting](bigace/administration/urlrewriting). (**expert option**)
+ 6.  The file extension to be used for unique URLs. Only used with activated [URL rewriting](administration/urlrewriting).
+ 7.  The unique name pattern for new items, which will be used as prefix for the News entry unique name. The pattern will be piped through stftime, so its easy possible to create a date in the unique name (for example **%Y-%m-%d/** would create News with unique URLs like **2008-04-01/Example-News.html**).  Only used with activated [URL rewriting](administration/urlrewriting). (**expert option**)
 
 
 ## Smarty TAGs
@@ -93,22 +93,22 @@ The News System comes with some specialized Smarty TAGs.
 
 Please visit their page for further information:
 
-*  [{link_news_rss}](bigace/smarty_tags/link_news_rss) - return the URL to the news RSS feed
+*  [{link_news_rss}](smarty_tags/link_news_rss) - return the URL to the news RSS feed
 
-*  [{news_categories}](bigace/smarty_tags/news_categories) - fetch all News Categories
+*  [{news_categories}](smarty_tags/news_categories) - fetch all News Categories
 
-*  [{news_category}](bigace/smarty_tags/news_category) - fetch all Categories for one News
+*  [{news_category}](smarty_tags/news_category) - fetch all Categories for one News
 
-*  [{news_item}](bigace/smarty_tags/news_item) - load one special News Item
+*  [{news_item}](smarty_tags/news_item) - load one special News Item
 
-*  [{news}](bigace/smarty_tags/news) - load a list of (categorized) News entries
+*  [{news}](smarty_tags/news) - load a list of (categorized) News entries
 
-*  [modifier: news_date](bigace/smarty_tags/news_date) - encodes a timestamp RFC 2822 compatible
+*  [modifier: news_date](smarty_tags/news_date) - encodes a timestamp RFC 2822 compatible
 
 ## Related extensions
 
 You might be interested in these extensions as well:
 
 
-*  [Comments](bigace/extensions/addon/comments) - to build a blog like News System
+*  [Comments](extensions/addon/comments) - to build a blog like News System
 

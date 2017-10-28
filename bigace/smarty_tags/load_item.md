@@ -20,7 +20,7 @@ The {load_item} TAG loads an Item and assigns this to a given Smarty variable na
 ## Example
 
 This example loads the Top menu and shows its content.
-Further infos about the available Item functions can be found in the [PHP API](bigace/php_api).
+Further infos about the available Item functions can be found in the [PHP API](php_api).
 
 	:::html
 	`<html>`

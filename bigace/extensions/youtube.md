@@ -1,6 +1,6 @@
 # YouTube
 
-YouTube is a [Plugins](bigace/plugins) Module, which replaces a code within a rendered page with a YouTube video.
+YouTube is a [Plugins](plugins) Module, which replaces a code within a rendered page with a YouTube video.
 
 Its easy to use: You enter a code like this into your page:
 
@@ -50,7 +50,7 @@ Please note, that you do not have to switch to the source-code view, you can pas
 
 ## Configurations
 
-Please switch to [bigace:manual:configurations](bigace/manual/configurations) and choose the package "youtube".
+Please switch to [bigace:manual:configurations](manual/configurations) and choose the package "youtube".
 
 
 *  **title** - Title of the IFrame

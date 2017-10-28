@@ -2,9 +2,9 @@
 
 This article describes quickly how you can find a user in the database and how you can reset a password with plain SQL.
 
-You need to find out your [Community ID](bigace/manual/community) first, which you can see in the administration, the Community config file or in the hidden page footer. Please insert this CID in the next SQL queries where you see {CID}. 
+You need to find out your [Community ID](manual/community) first, which you can see in the administration, the Community config file or in the hidden page footer. Please insert this CID in the next SQL queries where you see {CID}. 
 
-Please also extend the tablename "user" with the [database prefix](bigace/manual/database) if you use one.
+Please also extend the tablename "user" with the [database prefix](manual/database) if you use one.
 
 ## Find (a) user in the database
 

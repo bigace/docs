@@ -23,7 +23,7 @@ If you want to add new settings or edit the existing configuration, scroll down 
 
 ## Dynamic configurations
 
-**Toolbar:** You can (Community-wide) change which toolbar is used by the FCKeditor. Therefor edit the [Configuration](bigace/manual/configurations) entry **editor** -> **fckeditor.toolbar**.
+**Toolbar:** You can (Community-wide) change which toolbar is used by the FCKeditor. Therefor edit the [Configuration](manual/configurations) entry **editor** -> **fckeditor.toolbar**.
 
 Possible values are:
 

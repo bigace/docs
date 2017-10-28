@@ -1,6 +1,6 @@
 # Comments
 
-The Comments System is an Blogging style [Extension](bigace/extensions), written for BIGACE. Can be used with and without installed [News](bigace/extensions/addon/news) Extension.
+The Comments System is an Blogging style [Extension](extensions), written for BIGACE. Can be used with and without installed [News](extensions/addon/news) Extension.
 
 __Key features:__
 
@@ -33,8 +33,8 @@ Get all downloads from:
 
 ## Installation
 
- 1.  Download (see below) and [install](bigace/manual/updates) the Comments.zip
- 2.  Go to [User/Permissions](bigace/manual/grouppermission)
+ 1.  Download (see below) and [install](manual/updates) the Comments.zip
+ 2.  Go to [User/Permissions](manual/grouppermission)
  3.  Assign the comments.* Permissions to your Administrator account and to all required Usergroups (see below)
  4.  Activate the Comments plugin at Extensions -> Administration -> Plugins
  5.  Reload the Administration, you see the new Extension entry "Comments"
@@ -56,7 +56,7 @@ __Descriptions:__
 
 ## Configuration
 
-**1.)** Configure your Comment System at [System/Configurations](bigace/manual/configurations) (you need the "admin_configurations" Permission to open it).
+**1.)** Configure your Comment System at [System/Configurations](manual/configurations) (you need the "admin_configurations" Permission to open it).
 
 Go to Package "comments".
 
@@ -92,7 +92,7 @@ __Descriptions:__
  8.  if TRUE, emails are sent for new activated postings (see config keys 1 and 2)
  9.  comma separated list of recipients for the "new posting" email (example: "foo@bar,foo1@bar1")
  10.  the address, used as "FROM" value in above mentioned emails
- 11.  default: TRUE - whether [Gravatars](bigace/extensions/gravatar) are shown (TRUE) in your comments or not (FALSE)
+ 11.  default: TRUE - whether [Gravatars](extensions/gravatar) are shown (TRUE) in your comments or not (FALSE)
  12.  size of the gravatar images
  13.  the template, used for rendering the RSS feed
  14.  the wordpress API key, to activate you akismet account
@@ -109,26 +109,26 @@ The Comment System comes with some specialized Smarty TAGs.
 Please visit their page for further information:
 
 
-*  [{comment_counter}](bigace/smarty_tags/comment_counter) - count amount of activated Comments for one Item
+*  [{comment_counter}](smarty_tags/comment_counter) - count amount of activated Comments for one Item
 
-*  [{comment_format}](bigace/smarty_tags/comment_format) - ...
+*  [{comment_format}](smarty_tags/comment_format) - ...
 
-*  [{comment_spam}](bigace/smarty_tags/comment_spam) - ...
+*  [{comment_spam}](smarty_tags/comment_spam) - ...
 
-*  [{comments_latest}](bigace/smarty_tags/comments_latest) - to fetch the latest comments at your site
+*  [{comments_latest}](smarty_tags/comments_latest) - to fetch the latest comments at your site
 
-*  [{comments}](bigace/smarty_tags/comments) - a multipurpose TAG for reading existing and creating new comments
+*  [{comments}](smarty_tags/comments) - a multipurpose TAG for reading existing and creating new comments
 
-*  [{gravatar}](bigace/smarty_tags/gravatar) - creates the valid URL, used for displaying a Gravatar image
+*  [{gravatar}](smarty_tags/gravatar) - creates the valid URL, used for displaying a Gravatar image
 
-*  [{link_comments_rss}](bigace/smarty_tags/link_comments_rss) - ...
+*  [{link_comments_rss}](smarty_tags/link_comments_rss) - ...
 
-*  [{link_trackback}](bigace/smarty_tags/link_trackback) - ...
+*  [{link_trackback}](smarty_tags/link_trackback) - ...
 
 ## RSS Feed
 
 The Comments Extension commes with an RSS feed, which is linked from the HTML metatags automatically after activating the Comments plugin.
-You can also link to it by using [{link_comments_rss}](bigace/smarty_tags/link_comments_rss).
+You can also link to it by using [{link_comments_rss}](smarty_tags/link_comments_rss).
 
 If you want to customize the default values (you __should__ do so to personalize the feed!), you have to edit the Template **Comments-RSS-Latest**. Even better, you could create a Template Copy and assign this new template as your RSS Template at the Comments configuration (see above).
 

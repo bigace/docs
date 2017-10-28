@@ -6,7 +6,7 @@ To speed up your website, its important to reduce the amount of webserver reques
 
 As it cuts out comments, new lines and whitespaces, you don't have to care about minified versions of the files - they will be automatically stripped out for the productive CSS files.
 
-On development systems, the file is recreated on every request, see [bigace:developer:environment](bigace/developer/environment).
+On development systems, the file is recreated on every request, see [bigace:developer:environment](developer/environment).
 
 Note: As all files will be merged into one, you could get into problems with referenced media (like background-images) when you combine files from different directories.
 
@@ -54,7 +54,7 @@ This example shows to compress multiple CSS files into one.
 
 *  [ViewHelper fileMerge() PHPDoc](http://api.bigace-cms.com/latest/Bigace_Zend/View_Helper/Bigace_Zend_View_Helper_FileMerge.html)
 
-*  [bigace:developer:environment](bigace/developer/environment)
+*  [bigace:developer:environment](developer/environment)
 
 *  [Web Performance Best Practices](http://code.google.com/intl/de/speed/page-speed/docs/rules_intro.html) - Tips from Google
 

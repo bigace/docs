@@ -2,7 +2,7 @@
 
 Package: **[..:admin](../admin)**
 
-Where to send an email that was dispatched through the [bigace:manual:about](bigace/manual/about) screen.
+Where to send an email that was dispatched through the [bigace:manual:about](manual/about) screen.
 
 This setting should be changed to the administrator/webmaster email adress of your website.
 
@@ -14,5 +14,5 @@ This setting should be changed to the administrator/webmaster email adress of yo
 ## See also
 
 
-*  [Configuring Bigace](bigace/manual/configurations)
+*  [Configuring Bigace](manual/configurations)
 

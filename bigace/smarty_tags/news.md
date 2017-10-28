@@ -4,7 +4,7 @@ The {news} TAG loads a list of (categorized) News Items.
 
 This TAG is normally used to display the latest News in a list, with a link to a News detail page.
 
--> Since BIGACE 2.4 RC1 and installed [News](bigace/extensions/addon/news) [Extension](bigace/extensions).
+-> Since BIGACE 2.4 RC1 and installed [News](extensions/addon/news) [Extension](extensions).
 
 
 ## Attributes

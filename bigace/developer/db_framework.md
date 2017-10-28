@@ -1,6 +1,6 @@
 # Database Framework
 
-BIGACE comes with a database abstraction layer, that can be switched using the [Services Framework](bigace/developer/services).
+BIGACE comes with a database abstraction layer, that can be switched using the [Services Framework](developer/services).
 
 You can access it, using the global object:
 
@@ -8,7 +8,7 @@ You can access it, using the global object:
 	$GLOBALS['_BIGACE']['SQL_HELPER']
 
 
-**Please note:** Fetching CMS specific data should always be done by using the the proper [PHP API](bigace/php_api) methods.
+**Please note:** Fetching CMS specific data should always be done by using the the proper [PHP API](php_api) methods.
 
 ## Load a Statement
 

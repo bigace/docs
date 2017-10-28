@@ -14,6 +14,6 @@ Notification about new registrations will be sent to email address, that set in 
 
 *  [.:default.group.registration](./default.group.registration)
 
-*  [bigace:administration:self-registration](bigace/administration/self-registration)
+*  [bigace:administration:self-registration](administration/self-registration)
 
-*  [Configuring Bigace](bigace/manual/configurations)
+*  [Configuring Bigace](manual/configurations)

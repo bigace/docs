@@ -6,4 +6,4 @@ If you click an menu entry, its administration will open and the toolbar buttons
 
 ## Page permission
 
-Read more about [Object access rights](bigace/manual/objectrights).
+Read more about [Object access rights](manual/objectrights).

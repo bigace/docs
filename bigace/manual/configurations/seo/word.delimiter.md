@@ -14,6 +14,6 @@ In terms of search-engines (for SEO purpose) the hyphen - should be considered t
 ## See also
 
 
-*  [Configuring Bigace](bigace/manual/configurations)
+*  [Configuring Bigace](manual/configurations)
 
 

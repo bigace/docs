@@ -39,5 +39,5 @@ Create a new PHP file below the /plugins/ directory and add this minimal code to
 
 After you added this header, your plugin will be available in the plugins tab of your extension administration. Activate it and it (the file) will be loaded on BIGACE startup. 
 
-Hook into the system with [filters and actions](bigace/developer/hooks) and execute any code you like!
+Hook into the system with [filters and actions](developer/hooks) and execute any code you like!
 

@@ -1,6 +1,6 @@
 # Updates
 
-If you want to develop your own [Extension](bigace/extensions) for BIGACE (like your own template, admin panel or a module), you should use the "Update System", which enables you to use the full power of automatic SQL, XML and file deployment.
+If you want to develop your own [Extension](extensions) for BIGACE (like your own template, admin panel or a module), you should use the "Update System", which enables you to use the full power of automatic SQL, XML and file deployment.
 
 **The module auto-creator**
 

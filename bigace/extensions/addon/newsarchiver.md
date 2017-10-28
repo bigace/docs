@@ -1,6 +1,6 @@
 # News Archiver
 
-The News Archiver is an extension for the [News System](bigace/extensions/addon/news).
+The News Archiver is an extension for the [News System](extensions/addon/news).
 
 The News Archiver is able to find news older than a configured age. These news will be moved to an archive, where they are still existing, viewable, but they do not show up in the active News list.
 Activate the News Archiver if you have a lot of News or if you do not want to display old news on your website.
@@ -30,15 +30,15 @@ Its key features are (currently):
 
 ## Installation
 
- 1.  Download (see below) and [install](bigace/manual/updates) the News Archiver
+ 1.  Download (see below) and [install](manual/updates) the News Archiver
  2.  Configure your News Archiver (see below)
- 3.  Activate the News Archiver [AutoJob](bigace/manual/autojobs)
+ 3.  Activate the News Archiver [AutoJob](manual/autojobs)
 
 ## Configuration
 
 **1.)** Create the Menu page "News Archive" (where old News will be archived to).
 
-**2.)** Configure your News System at [System/Configurations](bigace/manual/configurations) (you need the "admin_configurations" Permission to open it).
+**2.)** Configure your News System at [System/Configurations](manual/configurations) (you need the "admin_configurations" Permission to open it).
 
 Go to Package "news".
 

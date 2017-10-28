@@ -2,7 +2,7 @@
 
 **C**
 
-*  [CID](bigace/cid_cid) - Community ID
+*  [CID](cid_cid) - Community ID
 
 *  Community - one site of a Bigace installation
 
@@ -22,7 +22,7 @@
 
 **R**
 
-*  Rights - (see [itempermission](itempermission) and [bigace:manual:grouppermission](bigace/manual/grouppermission))
+*  Rights - (see [itempermission](itempermission) and [bigace:manual:grouppermission](manual/grouppermission))
 
 **S**
 

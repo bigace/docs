@@ -35,18 +35,18 @@ The following meta tags will be generated:
 
 ## Highlights
 
-This TAG sends the following "action filter" as described [here](bigace/plugins):
+This TAG sends the following "action filter" as described [here](plugins):
 
-*  [metatags](bigace/hooks/metatags)
+*  [metatags](hooks/metatags)
 
-*  [metatags_more](bigace/hooks/metatags_more)
+*  [metatags_more](hooks/metatags_more)
 
-The [SEO Plugin](bigace/extensions/seo) makes use of these filter. If you installed 
+The [SEO Plugin](extensions/seo) makes use of these filter. If you installed 
 and activated it, your metatags output may vary from the provided example.
 
 ## Example
 
-This example shows to use [{metatags}](bigace/smarty_tags/metatags) in your templates. 
+This example shows to use [{metatags}](smarty_tags/metatags) in your templates. 
 
 	:::html
 	`<html>`

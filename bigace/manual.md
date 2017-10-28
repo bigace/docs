@@ -10,20 +10,20 @@ Use the Search (in the upper right corner) if you can't find what your are looki
 
 **General:**
 
-*  [Admin Index](bigace/manual/index)
+*  [Admin Index](manual/index)
 
-*  [General features](bigace/manual/features)
+*  [General features](manual/features)
 
-*  [About BIGACE](bigace/manual/about)
+*  [About BIGACE](manual/about)
 
 **Pages:**
 
 *  [.:manual:menu](./manual/menu)
 
-*  [bigace:manual:menutree](bigace/manual/menutree)
-    * [Edit menu](bigace/manual/menuAttributes)
+*  [bigace:manual:menutree](manual/menutree)
+    * [Edit menu](manual/menuAttributes)
 
-*  [bigace:manual:workflow](bigace/manual/workflow)
+*  [bigace:manual:workflow](manual/workflow)
 
 *  [.:manual:menuclassic](./manual/menuclassic)
 
@@ -36,7 +36,7 @@ Use the Search (in the upper right corner) if you can't find what your are looki
 *  [Media](./manual/media)
 
 *  [.:manual:images](./manual/images)
-     * [Image resizing](bigace/manual/imageresize)
+     * [Image resizing](manual/imageresize)
 
 *  [.:manual:files](./manual/files)
 
@@ -45,8 +45,8 @@ Use the Search (in the upper right corner) if you can't find what your are looki
 **User:**
 
 *  [.:manual:userdashboard](./manual/userdashboard)
-    * [Anonymous User](bigace/manual/anonymous_user)
-    * [Super User](bigace/manual/superuser) 
+    * [Anonymous User](manual/anonymous_user)
+    * [Super User](manual/superuser) 
 
 *  [.:manual:user](./manual/user)
 
@@ -76,29 +76,29 @@ Use the Search (in the upper right corner) if you can't find what your are looki
 
 *  [.:manual:system](./manual/system)
 
-*  [Configurations](bigace/manual/configurations)
+*  [Configurations](manual/configurations)
 
 *  [.:manual:backup](./manual/backup)
 
-*  [Modules](bigace/manual/itemmodul)
+*  [Modules](manual/itemmodul)
 
-*  [Logging](bigace/manual/logging)
+*  [Logging](manual/logging)
 
-*  [Languages](bigace/manual/languages)
+*  [Languages](manual/languages)
 
-*  [Statistics](bigace/manual/statistic)
+*  [Statistics](manual/statistic)
 
-*  [Extensions](bigace/manual/updates)
+*  [Extensions](manual/updates)
 
 **Community:**
 
-*  [Community Administration](bigace/manual/community)
+*  [Community Administration](manual/community)
 
-*  [Remove a Community](bigace/manual/communitydeinstall)
+*  [Remove a Community](manual/communitydeinstall)
 
-*  [Install a Community](bigace/manual/communityinstall)
+*  [Install a Community](manual/communityinstall)
 
-*  [Maintenance](bigace/manual/maintenance)
+*  [Maintenance](manual/maintenance)
 
 ## Mixed
 
@@ -115,7 +115,7 @@ Use the Search (in the upper right corner) if you can't find what your are looki
 
 *  [.:manual:editor](./manual/editor)
 
-*  [bigace:manual:itempermission](bigace/manual/itempermission)
+*  [bigace:manual:itempermission](manual/itempermission)
 
 ## Bigace v2
 
@@ -123,15 +123,15 @@ The next administration menus are only available in Bigace 2.x or provided throu
 
 **Editors:**
 
-*  [FСKeditor](bigace/manual/fckeditor)
+*  [FСKeditor](manual/fckeditor)
 
-*  [HTML Editor](bigace/manual/htmleditor)
+*  [HTML Editor](manual/htmleditor)
 
 **Smarty:**
 
-*  [Page Designs](bigace/manual/design)
+*  [Page Designs](manual/design)
 
-*  [Templates](bigace/manual/templates)
+*  [Templates](manual/templates)
 
-*  [Stylesheets](bigace/manual/stylesheet)
+*  [Stylesheets](manual/stylesheet)
 

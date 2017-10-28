@@ -55,7 +55,7 @@ Then you will see the following:
 
 ## See also
 
-*  [widgets() ViewHelper](bigace/developer/viewhelper/widgets)
+*  [widgets() ViewHelper](developer/viewhelper/widgets)
 
-*  [bigace:developer:zendtemplate](bigace/developer/zendtemplate)
+*  [bigace:developer:zendtemplate](developer/zendtemplate)
 

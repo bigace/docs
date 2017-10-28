@@ -2,7 +2,7 @@
 
 The {google_analytics} TAG dumps the required Javascript code for using the "new" Google Analytics Javascript snippet.
 
-The TAG comes with the [SEO Extension](bigace/extensions/seo).
+The TAG comes with the [SEO Extension](extensions/seo).
 
 "New" vs. "Old" Google Analytics:
 

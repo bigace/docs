@@ -1,6 +1,6 @@
 # BIGACE with LightHTTPD
 
-BIGACE was originally designed for Apache. Out of the Box, BIGACE only support Apache Rewrite Rules, so if you want to use BIGACE [URL Rewriting](bigace/administration/urlrewriting) feature with [LightHTTPD](bigace/administration/lighthttpd) you have to apply some manual changes.
+BIGACE was originally designed for Apache. Out of the Box, BIGACE only support Apache Rewrite Rules, so if you want to use BIGACE [URL Rewriting](administration/urlrewriting) feature with [LightHTTPD](administration/lighthttpd) you have to apply some manual changes.
 
 Thanks to [Gizmor](http://www.gizmor.org/) for this code!
 

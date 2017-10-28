@@ -1,8 +1,8 @@
 # Translations
 
-Static Phrases used for example in [Templates](bigace/developer/template), [Modules](bigace/modules) or Admin Plugins are normally kept in Language Files. We call these Files **ResourceBundle**.
+Static Phrases used for example in [Templates](developer/template), [Modules](modules) or Admin Plugins are normally kept in Language Files. We call these Files **ResourceBundle**.
 
-Community dependend ResourceBundle are saved in [/consumer/cid{CID}/language/](bigace/cid_cid).
+Community dependend ResourceBundle are saved in [/consumer/cid{CID}/language/](cid_cid).
 
 ## ResourceBundle File Format
 

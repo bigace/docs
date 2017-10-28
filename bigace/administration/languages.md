@@ -16,7 +16,7 @@ In a default installation you can find:
 
 *  Dutch (available as extension)
 
-*  [Swedish](bigace/extensions/language/se) (available as extension)
+*  [Swedish](extensions/language/se) (available as extension)
 
 
 # Creating Languages
